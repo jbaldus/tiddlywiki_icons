@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16.000001"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="/home/jason/fm-favicon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="fm-favicon.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="20.981369"
+     inkscape:cx="14.894166"
+     inkscape:cy="3.2648013"
+     inkscape:window-width="1920"
+     inkscape:window-height="971"
+     inkscape:window-x="133"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#049700;fill-opacity:1;stroke-width:10;stroke-linejoin:round"
+       id="rect12224"
+       width="16"
+       height="16"
+       x="0"
+       y="0" />
+    <g
+       id="g39740"
+       transform="translate(0.4470021)"
+       style="fill:#deffdd;fill-opacity:1">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.276px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#deffdd;fill-opacity:1;stroke-width:0.999998"
+         x="-0.92200285"
+         y="16.02553"
+         id="text4610"><tspan
+           sodipodi:role="line"
+           id="tspan4608"
+           x="-0.92200285"
+           y="16.02553"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.276px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999998;fill:#deffdd;fill-opacity:1">F</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3293px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#deffdd;fill-opacity:1;stroke-width:1"
+         x="5.1647229"
+         y="16"
+         id="text25672"><tspan
+           sodipodi:role="line"
+           id="tspan25670"
+           x="5.1647229"
+           y="16"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3293px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1;fill:#deffdd;fill-opacity:1">M</tspan></text>
+    </g>
+  </g>
+</svg>

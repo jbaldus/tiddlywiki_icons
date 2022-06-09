@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16.000001"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="/home/jason/am-favicon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="teach-favicon.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="16"
+     inkscape:cx="15.34375"
+     inkscape:cy="10.53125"
+     inkscape:window-width="1920"
+     inkscape:window-height="971"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:10;stroke-linejoin:round"
+       id="rect12224"
+       width="16"
+       height="16"
+       x="0"
+       y="0" />
+    <path
+       id="path13427"
+       style="opacity:1;fill:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stop-color:#000000"
+       d="m 7.8662799,5.3473189 c -2.001906,-0.015142 -4.461132,1.3120221 -4.609375,4.037109 -0.071614,2.0156391 1.20431,5.4894961 3.347657,6.3945321 0.115953,0.05025 0.23597,0.0872 0.357421,0.121093 0.243165,0.06687 0.495417,0.10391 0.757813,0.09961 0.00382,-8.3e-5 0.00792,9.9e-5 0.011719,0 0.300129,-0.0062 0.612079,-0.06194 0.935547,-0.175781 0.324108,-0.11407 0.65816,-0.235709 0.958984,-0.498047 3.9e-4,3.41e-4 0.00156,-3.41e-4 0.00195,0 0.300824,0.262338 0.6348761,0.383978 0.9589841,0.498047 0.323468,0.113841 0.635418,0.169559 0.935547,0.175781 0.0038,9.9e-5 0.0079,-8.3e-5 0.01172,0 0.262395,0.0043 0.514648,-0.03274 0.757812,-0.09961 0.121453,-0.03389 0.24147,-0.07084 0.357422,-0.121093 2.143347,-0.905036 3.419271,-4.378893 3.347656,-6.3945321 -0.154091,-2.832612 -2.802735,-4.1550153 -4.841796,-4.0292965 -0.275802,-0.02565 -0.607658,0.034097 -1.027344,0.2109375 -0.0057,0.00215 -0.0119,0.00368 -0.01758,0.00586 -0.1632331,0.057525 -0.3245441,0.1231929 -0.4824221,0.1914062 -0.079755,-0.034477 -0.160793,-0.067327 -0.242187,-0.099609 -0.080252,-0.031852 -0.160867,-0.063111 -0.242188,-0.091797 -5.68e-4,-2.183e-4 -0.00138,2.179e-4 -0.00195,0 -0.00343,-0.00146 -0.00635,-0.00246 -0.00977,-0.00391 -0.431425,-0.1825594 -0.770336,-0.2410496 -1.050781,-0.2109375 -0.071189,-0.00409 -0.142248,-0.00922 -0.214844,-0.00977 z" />
+    <g
+       id="g39740"
+       transform="translate(0.2911396,-0.02552986)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.276px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#9b00aa;fill-opacity:1;stroke-width:0.999998"
+         x="-0.92200285"
+         y="16.02553"
+         id="text4610"><tspan
+           sodipodi:role="line"
+           id="tspan4608"
+           x="-0.92200285"
+           y="16.02553"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.276px;font-family:'Century Schoolbook';-inkscape-font-specification:'Century Schoolbook, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0e8800;fill-opacity:1;stroke-width:0.999998">T</tspan></text>
+    </g>
+  </g>
+</svg>
