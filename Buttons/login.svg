@@ -8,11 +8,16 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="login.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title643">Login</title>
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
@@ -26,14 +31,16 @@
      width="128px"
      units="px"
      inkscape:zoom="2.6226712"
-     inkscape:cx="51.664884"
-     inkscape:cy="61.578441"
-     inkscape:window-width="1680"
-     inkscape:window-height="939"
-     inkscape:window-x="90"
+     inkscape:cx="51.092947"
+     inkscape:cy="60.434568"
+     inkscape:window-width="1920"
+     inkscape:window-height="971"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2" />
   <g
@@ -48,4 +55,30 @@
        id="rect994"
        transform="translate(14.233148,-1.482421)" />
   </g>
+  <metadata
+     id="metadata639">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jason Baldus</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Arrow pointing into an opening door</dc:description>
+        <dc:title>Login</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
 </svg>

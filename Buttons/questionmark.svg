@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866667 33.866667"
+   version="1.1"
+   id="svg953"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="questionmark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title600">Question Mark</title>
+  <defs
+     id="defs947">
+    <rect
+       x="3.3370518"
+       y="11.406188"
+       width="33.417949"
+       height="49.449271"
+       id="rect9" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-4.5456864"
+     inkscape:cy="70.836947"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg953"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="971"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata950">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jason Baldus</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title>Question Mark</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:description>A question mark in a square with rounded corners</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <path
+     d="m 12.799398,23.236852 q 1.935035,0 3.225058,1.231385 1.290021,1.172748 1.290021,2.990507 0,2.345494 -1.641846,4.045979 -1.641847,1.700484 -3.870068,1.700484 -1.9350344,0 -3.2250564,-1.231385 -1.2900224,-1.290022 -1.2900224,-3.283693 0,-2.169583 1.6418464,-3.811431 1.7004844,-1.641846 3.8700674,-1.641846 z m 2.462771,-0.820923 h -2.580046 q -1.407297,0 -1.993671,-0.410462 -0.527736,-0.410462 -0.527736,-1.465934 0,-1.935034 1.290022,-3.576881 1.290023,-1.700484 3.987343,-3.166418 1.876396,-1.055473 2.755957,-2.110946 0.879558,-1.11411 0.879558,-2.4041334 0,-1.4072968 -0.938196,-2.2868574 -0.87956,-0.938198 -2.345494,-0.938198 -0.527737,0 -0.938198,0.1172737 -0.410463,0.1172749 -0.820924,0.3518247 -0.23455,0.1759124 -0.527737,0.4104622 -0.293188,0.2345487 -0.586374,0.5863733 0.996836,0.3518247 1.465934,1.0554725 0.469101,0.645011 0.469101,1.7591224 0,1.641847 -1.583211,3.049144 -1.524572,1.407297 -3.4009684,1.407297 -1.8763958,0 -3.2250556,-1.290022 -1.2900224,-1.290023 -1.2900224,-3.107782 0,-3.9873423 4.104617,-6.8605739 4.1046164,-2.8732316 9.8510784,-2.8732316 3.987342,0 6.567388,2.2868583 2.638681,2.2868571 2.638681,5.7464628 0,3.1077824 -1.993671,5.3946394 -1.935033,2.228221 -6.156925,3.987342 -0.293187,0.117275 -0.527736,0.23455 -0.175912,0.05864 -0.410462,0.175912 -0.527736,0.293187 -0.879561,0.645011 -0.293185,0.351825 -0.586371,0.938198 0,0.117275 -0.05864,0.175912 0,0.05864 -0.05864,0.175913 -0.117275,0.234549 -0.234549,0.469098 -0.05864,0.175912 -0.175913,0.351825 -0.410461,0.703648 -0.87956,0.938198 -0.469099,0.23455 -1.290023,0.23455 z"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Candice;-inkscape-font-specification:'Candice, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.06455"
+     id="path49" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:square;stroke-miterlimit:5.3;stop-color:#000000"
+     id="rect10"
+     width="32.543747"
+     height="32.543747"
+     x="0.66145998"
+     y="0.66145998"
+     rx="2.9585226"
+     ry="2.9585226" />
+</svg>
