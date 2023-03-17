@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16.000001"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="pm-old-favicon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="pm-old-favicon.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title326">PM</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="20.981369"
+     inkscape:cx="7.8402892"
+     inkscape:cy="3.2886319"
+     inkscape:window-width="1680"
+     inkscape:window-height="953"
+     inkscape:window-x="0"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1547"
+       id="radialGradient1549"
+       cx="8"
+       cy="8"
+       fx="8"
+       fy="8"
+       r="8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98931686,-0.97849065,0.96989795,0.9806291,-7.673718,7.9828928)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1547">
+      <stop
+         style="stop-color:#9b00aa;stop-opacity:0;"
+         offset="0"
+         id="stop1543" />
+      <stop
+         style="stop-color:#9b00aa;stop-opacity:0.07058824;"
+         offset="0.34596974"
+         id="stop2143" />
+      <stop
+         style="stop-color:#9b00aa;stop-opacity:0.65098041;"
+         offset="1"
+         id="stop1545" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#fcddff;fill-opacity:1;stroke-width:10;stroke-linejoin:round"
+       id="rect12224"
+       width="16"
+       height="16"
+       x="0"
+       y="0" />
+    <g
+       id="g39740"
+       transform="translate(0.4470021)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.276px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#9b00aa;fill-opacity:1;stroke-width:0.999998"
+         x="-0.92200285"
+         y="16.02553"
+         id="text4610"><tspan
+           sodipodi:role="line"
+           id="tspan4608"
+           x="-0.92200285"
+           y="16.02553"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.276px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999998">P</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3293px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#9b00aa;fill-opacity:1;stroke-width:1"
+         x="5.1647229"
+         y="16"
+         id="text25672"><tspan
+           sodipodi:role="line"
+           id="tspan25670"
+           x="5.1647229"
+           y="16"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3293px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1">M</tspan></text>
+    </g>
+    <rect
+       style="fill:url(#radialGradient1549);fill-opacity:1;stroke:none;stroke-width:2.29099;stroke-linecap:round"
+       id="rect238"
+       width="16"
+       height="16"
+       x="0"
+       y="0"
+       inkscape:export-filename="am-old-favicon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <metadata
+     id="metadata324">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>PM</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
